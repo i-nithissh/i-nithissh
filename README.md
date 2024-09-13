@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Nithissh S S and I'm a passionate engineer from India with a keen interest in IoT and development.</h2>
+<h2 align="left">Hi 👋! this is Nithissh.</h2>
+<h2 align="left"> passionate engineer from India with a keen interest in IoT and development.</h2>
 
 ###
 
