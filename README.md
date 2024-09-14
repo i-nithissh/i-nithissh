@@ -2,7 +2,7 @@
 # 💫 About Me:
 <!-- Description -->
 <h3 align="center" style="font-family: 'Poppins', sans-serif;">
-  I'm <strong>Nithissh S S</strong>, a final-year engineering student with a passion for IoT and development! 
+  I'm <strong>Nithissh S S</strong>, a final-year Ece student with a passion for IoT and development! 
   I enjoy exploring new technologies, problem-solving, and enhancing my skills in AI and development. 
   When I'm not coding, you can find me working on exciting IoT projects or indulging in video editing.
 </h3>
@@ -92,9 +92,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bi-nithissh%7D/count.svg" alt="visitor badge"/></p>
 
 <!-- Updated snake image reference -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
+<img src="https://github.com/i-nithissh/i-nithissh/blob/output/snake.svg" alt="Snake animation" />
+
 
 
 <p align="center"><b>Have some fun!</b></p>
