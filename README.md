@@ -92,7 +92,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bi-nithissh%7D/count.svg" alt="visitor badge"/></p>
 
 <!-- Updated snake image reference -->
-<img src="https://github.com/i-nithissh/i-nithissh/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/i-nithissh/i-nithissh/blob/output/github-snake.svg" alt="Snake animation" />
+
 
 
 
